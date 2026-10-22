@@ -1,4 +1,21 @@
 {
   "source": "kwhetrick-hash/kays-brain content/carousel",
-  "carousels": []
+  "carousels": [
+    {
+      "folder": "2026-09-02-Wed-when-to-kill-an-ad",
+      "date": "2026-09-02",
+      "slot": "2026-09-02T12:00:00-04:00",
+      "caption": "When should you actually kill an ad? Most owners either pull the plug after one bad day or let a dead ad bleed money for weeks because nobody set a number up front. Here's the exact ratio that tells you when it's over, and when it just needs a couple more days.",
+      "cta": "Comment MATH and I'll send you the blank sheet so you can set your own target CPA and run the math.",
+      "pinnedComment": "If your cost per lead is running 3x your target after you've spent 2-3x that target chasing it, and the ad is past day 7 and $100, kill it. If it's 1.5-3x, give it a few more days before you touch anything.",
+      "slides": [
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/1.jpg",
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/2.jpg",
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/3.jpg",
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/4.jpg",
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/5.jpg",
+        "carousels/2026-09-02-Wed-when-to-kill-an-ad/6.jpg"
+      ]
+    }
+  ]
 }
